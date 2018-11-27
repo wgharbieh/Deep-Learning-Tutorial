@@ -7,4 +7,4 @@ Contains introductory material (as a .pptx presentation) and code (as a .ipynb n
 Your menu options should be (from top to bottom) `New Folder...`, `Upload Files...`, `Upload Folder...`, and so on. Go to `more`
 and scroll down the new menu then click on `Connect more apps`. A new window pops up and you can type `colab` in the search bar.
 
-
+![alt text](https://github.com/wgharbieh/Deep-Learning-Tutorial/blob/master/images/Selection_058.png)
